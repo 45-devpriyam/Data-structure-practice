@@ -1,4 +1,4 @@
-🚀 DSA Practice Repository
+🚀 DSA Practice
 
 Welcome to my Data Structures & Algorithms (DSA) practice repository 💻
 This repository contains my solutions to various DSA problems, organized by topic for structured learning and revision.
